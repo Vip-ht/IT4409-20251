@@ -7,3 +7,8 @@
     background-color: aqua;
     text-emphasis: none;
 }
+
+.percent{
+    width: 70%;
+    background-color: rgb(166, 228, 19);
+}
